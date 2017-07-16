@@ -1,0 +1,24 @@
+
+.schedule-container {
+     min-width: 650px;
+}
+
+.input-container {
+     min-width: 650px;
+}
+
+ body {
+        background: url('images/maxresdefault.jpg') 
+        no-repeat center center fixed;
+        background-size: cover;
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+.jumbotron {
+     color: white;
+     background: rgba(200, 54, 54, 0.5);
+     min-width: 650px;
